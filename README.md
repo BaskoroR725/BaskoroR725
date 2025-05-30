@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Baskoro!
 
-<!--
-**BaskoroR725/BaskoroR725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m a passionate beginner web developer who loves to learn and build new things every day.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack I Use
+- **HTML**
+- **CSS**
+- **Bootstrap**
+- **Tailwind CSS**
+- **React**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- **Next.js**
+- **Node.js**
+- **PostgreSQL**
+- **TypeScript**
+
+---
+
+Saya percaya proses belajar adalah perjalanan yang tiada akhir.  
+Saya juga selalu ingin tau dengan teknologi baru seperti Ai dan tech stack lain yang berhubungan dengan web dev.
+Memberikan yang terbaik dalam setiap latihan agar dapat membuat sendiri proyek yang dapat bermanfaat.
+Saya juga terbuka dengan kritik dan terus berkembang sebagai seorang developer handal.🚀
+
+Let’s connect and learn together!  
