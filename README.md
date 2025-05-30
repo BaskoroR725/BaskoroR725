@@ -20,6 +20,7 @@ I’m a passionate beginner web developer who loves to learn and build new thing
 
 Saya percaya proses belajar adalah perjalanan yang tiada akhir.  
 Saya juga selalu ingin tau dengan teknologi baru seperti Ai dan tech stack lain yang berhubungan dengan web dev.
+
 Memberikan yang terbaik dalam setiap latihan agar dapat membuat sendiri proyek yang dapat bermanfaat.
 Saya juga terbuka dengan kritik dan terus berkembang sebagai seorang developer handal.🚀
 
